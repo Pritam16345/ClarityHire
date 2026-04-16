@@ -151,5 +151,5 @@ python tests/test_agent.py
 
 ## 👤 Author
 
-**Pritam** | B.Tech CSE | KIIT University  
+**Pritam Kundu** | B.Tech in CSE | KIIT University  
 *Agentic AI Capstone Project — 2026*
